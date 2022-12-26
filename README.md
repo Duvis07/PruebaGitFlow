@@ -26,8 +26,8 @@ Hola desde la rama HotFix/2222-hu01-db actualizada
 Hola desde la rama HotFix/3333-hu02-db actualizada
 
 
-
 Rama release/1.0.0 TODO: OK
 Rama release/1.0.1 TODO: OK
 Rama release/1.0.2 TODO: OK
 Rama release/1.0.3 TODO: OK
+Rama release/1.0.4 TODO: OK

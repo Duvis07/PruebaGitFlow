@@ -15,6 +15,7 @@ Hola desde la rama BugFix/33333-hu02-db
 
 Rama #5
 Hola desde la rama bug solucionado
+Hola desde la rama2 bug solucionado
 
 
 Rama #3

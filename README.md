@@ -10,6 +10,9 @@ Hello desde la rama feat/33333-hu02-db
 Rama #4
 Hola desde la rama BugFix/2222-hu01-db
 
+Rama #6
+Hola desde la rama BugFix/33333-hu02-db
+
 Rama #5
 Hola desde la rama bug solucionado
 

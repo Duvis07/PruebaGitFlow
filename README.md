@@ -16,6 +16,9 @@ Hola desde la rama BugFix/33333-hu02-db
 Rama #7
 Hola desde la rama HotFix/2222-hu01-db
 
+Rama #8
+Hola desde la rama HotFix/33333-hu02-db
+
 Rama #5
 Hola desde la rama bug solucionado
 Hola desde la rama2 bug solucionado
